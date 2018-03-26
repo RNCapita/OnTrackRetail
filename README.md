@@ -1,5 +1,6 @@
 Instructions to run the code:
-1) Within the folder, run 'npm install lodash' using a CLI to install the lone node module I used
+1) If you have not already, install node and npm from https://nodejs.org/en/, I use version 7.6
+1) Within the tech challenge folder, run 'npm install lodash' using a CLI to install the lone node module I used
 2) Within the folder, Run 'node scenario1.js' using CLI to run the code
 3) A file called 'finalAnswer.json' will be generated with the answers to the questions i have answered in the format requested.
 
